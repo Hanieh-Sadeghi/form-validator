@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
 
 :root {
-  --success-color: #2ecc71;
-  --error-color: #e74c3c;
+  --success-color: #00ff6a;
+  --error-color: #ff1900;
 }
 
 ::selection {
@@ -69,7 +69,6 @@ h2 {
 .form-control input:focus {
   outline: 0;
   border: 1.5px solid #aac59a;
-
 }
 
 .form-control.success input {
@@ -103,4 +102,13 @@ h2 {
   padding: 10px;
   margin-top: 20px;
   width: 100%;
+}
+
+small {
+  color: #6a8f74;
+}
+
+a {
+  text-decoration: none;
+  color: #fff8ded7;
 }
