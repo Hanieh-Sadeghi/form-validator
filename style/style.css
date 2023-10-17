@@ -56,7 +56,7 @@ h2 {
 }
 
 .form-control input {
-  background-color: hsla(93, 22%, 76%, 0);
+  background: hsla(93, 22%, 76%, 0);
   border: 1px solid #33513a;
   color: #aac59a;
   border-radius: 4px;
